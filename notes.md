@@ -1,0 +1,1 @@
+* Robots may not occupy a Grass tile or share a tile with a Recycler.
